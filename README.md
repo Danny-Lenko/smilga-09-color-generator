@@ -1,2 +1,3 @@
-# smilga-09-color-generator
-Created with CodeSandbox
+#### Values JS
+
+[values.js](https://github.com/noeldelgado/values.js)
